@@ -2,8 +2,6 @@
 
 https://mechmnistic.streamlit.app/
 
-Made by Alex Foote
-
 ## Motivation
 
 Mechanistic interpretability aims to understand precisely how neural networks work by reverse engineering them into human understandable components.
@@ -37,7 +35,4 @@ This provides a rich view and allows you to conduct a detailed analysis of the m
 
 In the immediate term, I plan to extend this tool to work with MLPs with >1 hidden layer. Working with multiple hidden layers is more challenging as you have to understand hidden layer <-> hidden layer connections, where you're not grounded in input space or output space on either end.
 
-## Contact
-
-If you have any questions, feedback, or are interested in collaborating, feel free to reach out to me at [alexjfoote@icloud.com](mailto:alexjfoote@icloud.com)
 
