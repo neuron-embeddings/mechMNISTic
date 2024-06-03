@@ -159,4 +159,10 @@ cython_debug/
 #  be found at https://github.com/github/gitignore/blob/main/Global/JetBrains.gitignore
 #  and can be added to the global gitignore or merged into this file.  For a more nuclear
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
-#.idea/
+.idea/
+
+models/Neuron Embedding SAE/embeddings.pt
+models/Neuron Embedding SAE/layer_to_activations.json
+
+models/Standard SAE/embeddings.pt
+models/Standard SAE/layer_to_activations.json

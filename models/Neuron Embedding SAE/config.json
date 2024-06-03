@@ -1,0 +1,5 @@
+{
+  "layers": 2,
+  "neurons": 64,
+  "SAE_neurons": 512
+}
