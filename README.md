@@ -15,7 +15,7 @@ The tool provides two methods of exploration - understanding the behaviour of in
 
 You can explore the behaviour of individual neurons in the model. For each neuron, I visualise the input and output weights, and show the dataset examples that most activate the neuron, as well as the parts of the examples to which the neuron is responding. 
 
-To do this, I compute the Hadamard (element-wise) product of a dataset example and the neuron's input weights and visualise the result. This directly shows what the input weights are detecting, and provides a representation that I use to cluster the dataset examples into [feature clusters](https://github.com/alexjfoote/feature-clusters).
+To do this, I compute the Hadamard (element-wise) product of a dataset example and the neuron's input weights and visualise the result. This directly shows what the input weights are detecting, and provides a representation that I use to cluster the dataset examples into feature clusters.
 
 Each cluster captures a distinct feature to which the neuron responds. The common pattern is that clusters consist of a particular way of writing a digit, and a particular neuron often responds to a variety of ways of writing a digit.
 
